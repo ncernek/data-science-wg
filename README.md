@@ -1,6 +1,6 @@
 #  my notes 
 
-###  1. use the [heat map of case transfers](https://github.com/ncernek/data-science-wg/projects-in-this-repo/SF_311_Data-Analysis/Exploratory_Analyses/2016-06-12-mvm-SF_311_transfer_cases.ipynb) for transfers between physicians
+###  1. use the heat map of case transfers for transfers between physicians
 
 
 
