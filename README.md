@@ -1,3 +1,13 @@
+##  my notes 
+
+#  1. use the heat map of transfers for transfers between physicians 
+
+
+
+
+
+-----------
+
 ![](datascience-wg_header.jpg)
 
 ## Thanks for stopping by!
