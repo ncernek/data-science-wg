@@ -1,6 +1,6 @@
-##  my notes 
+#  my notes 
 
-#  1. use the heat map of transfers for transfers between physicians 
+###  1. use the heat map of transfers for transfers between physicians 
 
 
 
